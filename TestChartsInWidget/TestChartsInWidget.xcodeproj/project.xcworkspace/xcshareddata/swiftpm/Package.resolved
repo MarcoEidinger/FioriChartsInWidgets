@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AnyCodable",
+        "repositoryURL": "https://github.com/Flight-School/AnyCodable.git",
+        "state": {
+          "branch": null,
+          "revision": "79b05a5da89557a4fa50647cc92488a3d9c3f478",
+          "version": "0.3.0"
+        }
+      },
+      {
+        "package": "FioriSwiftUI",
+        "repositoryURL": "https://github.com/SAP/cloud-sdk-ios-fiori",
+        "state": {
+          "branch": null,
+          "revision": "5ac8160d77698620fe13afa9503a2c26b66c05ee",
+          "version": "0.5.4"
+        }
+      },
+      {
+        "package": "ObservableArray",
+        "repositoryURL": "https://github.com/sstadelman/observable-array.git",
+        "state": {
+          "branch": null,
+          "revision": "8cc76410f71b6653897f974b453e9a15ef8f96b4",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "TinyNetworking",
+        "repositoryURL": "https://github.com/objcio/tiny-networking",
+        "state": {
+          "branch": null,
+          "revision": "15a416c762e2a91f9eac73b3fbe55adf571c3aba",
+          "version": "0.4.0"
+        }
+      },
+      {
+        "package": "Zip",
+        "repositoryURL": "https://github.com/marmelroy/Zip.git",
+        "state": {
+          "branch": null,
+          "revision": "80b1c3005ee25b4c7ce46c4029ac3347e8d5e37e",
+          "version": "2.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
