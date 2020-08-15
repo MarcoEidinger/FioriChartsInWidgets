@@ -39,11 +39,11 @@ struct ChartWidgetEntryView : View {
     var body: some View {
         VStack {
             VStack {
-                Text("Does not work")
+                Text("Line Chart")
                 ChartView(ChartModel(chartType: .line, data: [[200, 170, 165, 143, 166, 112, 110], [150, 120, 130, 135, 120, 138, 137]], titlesForCategory: [["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul"]]))
             }
             VStack {
-                Text("Works")
+                Text("Micro Bullet")
                 ChartView(ChartModel(chartType: .micro_bullet, data: [[35, 50, 70], [0, 20, 50, 100]], colorsForCategory: [0: [0: .preferredColor(.chart1), 1: .preferredColor(.chart2), 2: .preferredColor(.chart2), 3: .preferredColor(.chart3)]]))
             }
         }
@@ -56,7 +56,7 @@ struct ChartWidget: Widget {
     private let kind: String = "ChartWidget"
 
     public var body: some WidgetConfiguration {
-        StaticConfiguration(kind: kind, provider: Provider(), placeholder: PlaceholderView()) { entry in
+        StaticConfiguration(kind: kind, provider: Provider()) { entry in
             ChartWidgetEntryView(entry: entry)
         }
         .configurationDisplayName("My Widget")

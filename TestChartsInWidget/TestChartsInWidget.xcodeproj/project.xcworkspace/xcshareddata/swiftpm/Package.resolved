@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/SAP/cloud-sdk-ios-fiori",
         "state": {
           "branch": null,
-          "revision": "5ac8160d77698620fe13afa9503a2c26b66c05ee",
-          "version": "0.5.4"
+          "revision": "27d79db8b613d72aa8d297eaba7498240ebac110",
+          "version": "0.5.5"
         }
       },
       {
