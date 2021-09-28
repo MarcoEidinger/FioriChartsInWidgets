@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/Flight-School/AnyCodable.git",
         "state": {
           "branch": null,
-          "revision": "79b05a5da89557a4fa50647cc92488a3d9c3f478",
-          "version": "0.3.0"
+          "revision": "b1a7a8a6186f2fcb28f7bda67cfc545de48b3c80",
+          "version": "0.6.2"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/SAP/cloud-sdk-ios-fiori",
         "state": {
           "branch": null,
-          "revision": "27d79db8b613d72aa8d297eaba7498240ebac110",
-          "version": "0.5.5"
+          "revision": "9f06d1c29b839e5d9ca062e3b35403af2ceab9be",
+          "version": "1.0.2"
         }
       },
       {
@@ -29,21 +29,12 @@
         }
       },
       {
-        "package": "TinyNetworking",
-        "repositoryURL": "https://github.com/objcio/tiny-networking",
-        "state": {
-          "branch": null,
-          "revision": "15a416c762e2a91f9eac73b3fbe55adf571c3aba",
-          "version": "0.4.0"
-        }
-      },
-      {
         "package": "Zip",
         "repositoryURL": "https://github.com/marmelroy/Zip.git",
         "state": {
           "branch": null,
-          "revision": "80b1c3005ee25b4c7ce46c4029ac3347e8d5e37e",
-          "version": "2.0.0"
+          "revision": "bd19d974e8a38cc8d3a88c90c8a107386c3b8ccf",
+          "version": "2.1.1"
         }
       }
     ]
